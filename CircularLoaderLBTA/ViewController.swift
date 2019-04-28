@@ -64,19 +64,3 @@ class ViewController: UIViewController {
     }
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
